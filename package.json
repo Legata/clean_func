@@ -2,7 +2,7 @@
   "name": "clean_func",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": ".eslintrc.js",
   "scripts": {
     "test": "jest --coverage",
     "lint": "eslint ."

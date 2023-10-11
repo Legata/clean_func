@@ -1,10 +1,3 @@
-// import sum from '../js/basic';
-
-// test('should sum', () => {
-//   const result = sum([1, 2, 3]);
-
-//   expect(result).toBe(6);
-// });
 import setHealth from '../app';
 
 test.each(
